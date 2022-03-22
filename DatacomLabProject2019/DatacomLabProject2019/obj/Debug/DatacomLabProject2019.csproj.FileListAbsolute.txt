@@ -1,0 +1,24 @@
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csprojAssemblyReference.cache
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.exe.config
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.exe
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.pdb
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.dll
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.xml
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csproj.CopyComplete
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.exe
+C:\Users\onur\Desktop\Yeni klasör (2)\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.pdb
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.exe.config
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.exe
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\DatacomLabProject2019.pdb
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.dll
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.xml
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csprojAssemblyReference.cache
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.csproj.CopyComplete
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.exe
+C:\Users\onur\Desktop\DatacomProject\DatacomLabProject2019\DatacomLabProject2019\obj\Debug\DatacomLabProject2019.pdb
